@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "148902621862",
+    "firebase_url": "https://jump-jump-jump-4294120.firebaseio.com",
+    "project_id": "jump-jump-jump-4294120",
+    "storage_bucket": "jump-jump-jump-4294120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148902621862:android:e34674ae9642e35e",
+        "android_client_info": {
+          "package_name": "com.rsan.jumpjumpjump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148902621862-e51ckih2r4c67ks9jp4bp3o6l8uaobk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rsan.jumpjumpjump",
+            "certificate_hash": "2c3e515b9d45ba4154810fd1f270067d2e1e0d91"
+          }
+        },
+        {
+          "client_id": "148902621862-hlofnchk5ge3u4iucn0t4fno0g57h849.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApP7YvRn0OYKwbTopbY8XgJsX-JBThVhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
